@@ -67,7 +67,8 @@ p {
 
 h2, h1, p {
   font-family: 'Helvetica Neue';
-  color: #ffffff
+  color: #ffffff;
+  font-size: 2em;
 }
 
 .blanc {
